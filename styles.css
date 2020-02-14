@@ -1,0 +1,29 @@
+html, body {
+    background-color: #2b2524;
+}
+
+h3 {
+    color: #55CF05;
+    font-family: 'Fugaz One', cursive;
+}
+
+p {
+    color: white;
+    width: 70%;
+    font-family: 'Bitter', serif;
+}
+
+img {
+    width: 30%; 
+    height: auto;
+}
+
+.linkedin {
+    color: #3B5998;
+}
+
+.flex-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
