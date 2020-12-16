@@ -1,4 +1,3 @@
-//import csesoc from 'text.js'
 const aboutme = document.getElementById('aboutme')
 const info = document.getElementById('info')
 document.getElementById('dropdown').addEventListener('click', (event) => {
