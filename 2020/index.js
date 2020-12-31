@@ -1,0 +1,1 @@
+document.querySelector('button').onclick = () => document.querySelector('footer').style.display = 'none';
